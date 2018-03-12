@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Applcation_RmanSIr</string>
+    <string name="title_home">Bid</string>
+    <string name="title_dashboard">Buy Bid</string>
+    <string name="title_notifications">Winners</string>
+    <string name="profile_notifications">Profile</string>
+
+</resources>
